@@ -1,0 +1,4 @@
+#Wed Aug 12 19:54:24 COT 2020
+base.0=D\:\\imaginamosApp\\imaginamos\\themoviedb-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

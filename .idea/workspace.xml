@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75f674bb-5d82-44f1-89d3-84a1658ca6ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/commons/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons/custom_search_delegate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons/date_utils.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/commons/date_utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/genre.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/genre.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/movie.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/movie.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/request_response.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/request_response.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies_detail_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies/movies_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/movies/movies_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/repository/movies_api_client.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repository/movies_api_client.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/repository/movies_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repository/movies_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/bottom_loader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/bottom_loader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/error_message_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/error_message_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/loading_indicator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/loading_indicator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/movie_image.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/movie_image.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/movie_list_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/movie_list_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/movies_bloc_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/movies_bloc_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenrecording.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/searchdetail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/searcherror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/searchsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fake/fake_movies.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/instrumentation/instrumented_app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/instrumentation/instrumented_app_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unit/movies_bloc_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget/movies_bloc_widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g1OgGqRhUTxl8mGDjNlDgTAa5P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f674bb-5d82-44f1-89d3-84a1658ca6ca" name="Default Changelist" comment="" />
+      <created>1597278742560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597278742560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597288656312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597288656312" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1597289067968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597289067968" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1597289067968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597289067968" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1597289067968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597289067968" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1597289067968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597289067968" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1597288871485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597288871485" />
+    <state width="419" height="167" key="javadoc.popup.new" timestamp="1597288242292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="419" height="167" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1597288242292" />
+  </component>
+</project>
