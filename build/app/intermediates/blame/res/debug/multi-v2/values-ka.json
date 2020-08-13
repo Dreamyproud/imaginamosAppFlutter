@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\imaginamosApp\\imaginamos\\themoviedb-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "D:\\imaginamosApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danig\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4982cb03f37d2b6a27b9422c0c479c27\\res\\values-ka\\values-ka.xml",
